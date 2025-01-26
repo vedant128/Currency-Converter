@@ -1,4 +1,4 @@
-const urlll = "https://api.freecurrencyapi.com/v1/latest?apikey=fca_live_aQLqDcsff2UKp7bKrvPQJ19b4ZMl9ORjuQUCChVY";
+const urlll = "#your api key"; //genarte from https://freecurrencyapi.com/ this website
 let dropd = document.querySelector(".sel1"); // Get the dropdown element
 let dropd1 = document.querySelector(".sel2");
 const from = document.querySelector("#from");
